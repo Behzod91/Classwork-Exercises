@@ -1,3 +1,8 @@
+/*
+*	Behzod Hamrayev
+*
+*/
+
 #include <stdio.h>
 
 int main()
